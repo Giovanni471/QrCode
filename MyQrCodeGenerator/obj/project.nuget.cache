@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tde+3g9RJ9s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcnan\\Desktop\\Progetti\\QrCode\\MyQrCodeGenerator\\MyQrCodeGenerator\\MyQrCodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcnan\\.nuget\\packages\\qrcoder\\1.7.0\\qrcoder.1.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
